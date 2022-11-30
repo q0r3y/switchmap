@@ -1,0 +1,5 @@
+switchname:
+  device_type: hp_procurve
+  host: 0.0.0.0
+  username: user
+  password: pass
